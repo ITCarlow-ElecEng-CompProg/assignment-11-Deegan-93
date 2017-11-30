@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511964163 source:c:\users\user\desktop\it carlow\2nd year college\computer programming\exercise 11 - tomorrow's date calculator\main.cpp
+	<iostream>
+	<math.h>
+
